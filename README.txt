@@ -1,0 +1,8 @@
+README File
+
+Known bugs / errors in the game
+- Collision detection between peashooter and walnut is not always accurate (especially for walnut, zombie may pause in the wrong column)s
+- when the peashooter is too close to the zombie, peas might shoot really quickly
+- Zombie doesn't always stop when colliding with a peashooter
+- Did not get the Cherry bomb to work - suppose to clear its row of zombies
+- Cannot detect collision between sunflower and zombies
