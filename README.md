@@ -1,7 +1,7 @@
 # Plants-vs-Zombies-2.0
 
 
-Plants vs Zombies is a single-player arcade-type game where the player takes the role of a homeowner in the midst of a zombie apocalypse. The aim of the player is to protect their home from a horde of zombies as they approach it along several parallel lanes. 
+Based on the popular mobile game, Plants vs Zombies 2.0 is a single-player arcade-type game where the player takes the role of a homeowner in the midst of a zombie apocalypse. The aim of the player is to protect their home from a horde of zombies as they approach it along several parallel lanes. 
 
 ![image](https://user-images.githubusercontent.com/86501703/149428524-f7c331c6-f4fc-4009-9580-d6d5c84bafdc.png)
 
